@@ -1,4 +1,5 @@
-        var Links = {
+       // color 기능의 관한 js 파일
+       var Links = {
             setColor:function(color){
             var alist = document.querySelectorAll('a');
             var i = 0;
